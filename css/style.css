@@ -57,5 +57,13 @@ h3 {
     background-color: #dfe1e8;
 }
 
+ul li {
+  margin-bottom: .25rem;
+}
+
+a {
+  color: #08c;
+  text-decoration: none;
+}
 
 
