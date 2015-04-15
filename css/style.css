@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font: 1rem/1.5 "PT Sans", sans-serif;
+    color: #5a5a5a;
+}
+
+h1, h2, h3, h4 {
+    margin: 0 0 .5rem;
+    font-weight: normal;
+    line-height: 1;
+    color: #2a2a2a;
+    letter-spacing: -.05em;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 1.75rem;
+}
+.grdheader {
+    padding: 3rem 1rem;
+    color: rgba(255,255,255,.5);
+    text-align: center;
+    background-color: #2a3440;
+}
+.grdheader h1 {
+    color: #fff;
+    margin-bottom: .25rem;
+}
+.description {
+    font-size: 1.3rem;
+}
+
+.section {
+  border-bottom: 1px solid #dfe1e8;
+}
+
+
+.col {
+    display: table-cell;
+    padding: 3rem;
+    vertical-align: top;
+}
+.col p {
+    max-width: 40rem;
+}
+
+
+.titre-conteneur {
+    padding: 3rem 3rem 2.5rem;
+    background-color: #dfe1e8;
+}
+
+
+
