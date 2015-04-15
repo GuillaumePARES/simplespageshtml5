@@ -81,10 +81,9 @@ a {
   text-decoration: none;
   transition: all .15s linear;
 }
-.icon-github-circled {
-  background:url(img/GitHub-Mark-120px-plus.png) no-repeat 10px 10px;
- display:block;   
-}
 .description {
     font-size: 1.3rem;
+}
+.icon {
+    display:block
 }
