@@ -87,3 +87,19 @@ a {
 .icon {
     display:block
 }
+
+/*
+**Formulaire
+*/
+form {
+    margin: 50px auto;
+}
+form label {
+    
+}
+form input {
+    
+}
+form textarea {
+    
+}
